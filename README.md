@@ -1,5 +1,9 @@
 # I lost you
 
+## This project has now been abandoned. 
+### Multiple surveys were conducted to find whether people wanted this.
+### Majority didn't want this to be built.
+
 AI can help people grieving from the loss of someone special.
 This repository is where the code for a future app will be hosted.
 
