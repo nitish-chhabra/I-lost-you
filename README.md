@@ -2,7 +2,10 @@
 
 ## This project has now been abandoned. 
 ### Multiple surveys were conducted to find whether people wanted this.
-### Majority didn't want this to be built.
+### Majority didn't want this to be built. 
+
+![lost](https://user-images.githubusercontent.com/19255664/117553642-5b542900-b070-11eb-9a06-3636a51d2e8e.jpeg)
+
 
 AI can help people grieving from the loss of someone special.
 This repository is where the code for a future app will be hosted.
